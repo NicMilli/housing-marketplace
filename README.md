@@ -1,3 +1,8 @@
+# This description will be update soon- for now please feel free to view the published app [here](https://housing-marketplace-one.vercel.app/)
+Sign in to list a property and access the member profile area.
+The front end is build using React and the database is hosted on google Firebase!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
